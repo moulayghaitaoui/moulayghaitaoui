@@ -24,8 +24,8 @@ class Profile {
      //MY SOCIAL MEDIA LINKS
      public function social_media_links(){
           return [
-                "Linkdin"=>"<a href="https://www.linkedin.com/in/moulauy-ghiataoui-b897b1224">linke</a>"
-                "Website"=>"<a href="https://moulayghaitaoui.github.io/Website/">linke</a> "
+                "Linkdin"=>"https://www.linkedin.com/in/moulauy-ghiataoui-b897b1224"
+                "Website"=>"https://moulayghaitaoui.github.io/Website/"
           ];
      }
 }
