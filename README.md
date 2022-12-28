@@ -1,13 +1,41 @@
-- 👋 Hi, I’m Ghataoui Moulay El hadj
-- 👀 I am a mobile developer with extensive experience, my expertise is creating and designing mobile applications, graphic design and much more ...
 
-- 🌱 Linke din : <a href="https://www.linkedin.com/in/moulauy-ghiataoui-b897b1224">linke</a> 
+### Hi THERE 👋 , WELCOME IN MY HOUSE
 
-- 💞️ Email :moulaygh99@gmail.com 
 
-- 📫 Website : <a href="https://moulayghaitaoui.github.io/Website/">linke</a>  
+```php
 
-<!---
-moulayghaitaoui/moulayghaitaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class Profile {
+     //PUBLIC INFORMATIONS
+     public function main(){
+          return [
+                "name"=>"Ghaitaoui Moulay El hadj",
+                "email"=>"moulaygh99@gmail.com",
+                "education"=>"Youtube University 😁",
+          ];
+     }
+     //MY SKILLS
+     public function skills(){
+         return [
+                "languages"=>["java ❤️","PHP 🧑‍💻"],
+                "frameworks"=>["Android Stude 🤗"],
+                "databases"=>["mysql"],
+         ];
+     }
+     //MY SOCIAL MEDIA LINKS
+     public function social_media_links(){
+          return [
+                "Linkdin"=>"<a href="https://www.linkedin.com/in/moulauy-ghiataoui-b897b1224">linke</a>"
+                "Website"=>"<a href="https://moulayghaitaoui.github.io/Website/">linke</a> "
+          ];
+     }
+}
+
+
+
+
+
+```
+
+
+<!--
+
