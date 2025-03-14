@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # Hi 👋, I'm Ghaitaoui Moulay El Hadj
 
 ## 💻 Backend Developer (Node.js, Express.js, Nest.js)
@@ -10,7 +11,7 @@ I am a passionate **Backend Developer** with extensive experience in building sc
 - 🔭 **Currently Working On:** Scalable backend solutions using **Node.js & Nest.js**
 - 👯 **Looking to Collaborate On:** Web applications, APIs, and cloud-based solutions
 - 💬 **Ask Me About:** Node.js, Express.js, Nest.js, MongoDB, SQL, RESTful APIs, Microservices
-- 📫 **How to Reach Me:** moulaygh99@gmail.com
+- 📫 **How to Reach Me:**moulay.elhadj.ghaitaoui@gmail.com 
 
 ---
 
