@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Compressing Files, With The Algorithm Of, Shanwa Vanua, Hoffman In The Matlab Language, A Third Year University Graduation Project.**
 
-- 👯 I’m looking to collaborate on **java Mobile Developer**
+- 👯 I’m looking to collaborate on **Backend Developer (Node js, Express js)r**
 
 - 💬 Ask me about **Android**
 
