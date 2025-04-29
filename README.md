@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # Hi 👋, I'm Ghaitaoui Moulay El Hadj
 
-## 💻 Backend Developer (Node.js, Express.js, Nest.js)
+## 💻 Backend Developer (Node.js, Express.js, Laravel,Nest.js)
 
 I am a passionate **Backend Developer** with extensive experience in building scalable and high-performance applications using **Node.js**, **Express.js**, and **Nest.js**. My expertise lies in designing robust APIs, database management, and optimizing backend systems for efficiency and reliability.
 
@@ -18,7 +18,7 @@ I am a passionate **Backend Developer** with extensive experience in building sc
 ### 🛠️ Tech Stack & Tools
 
 #### **Backend Technologies**
-- **Programming:** Node.js, TypeScript, JavaScript
+- **Programming:** Node.js, TypeScript, JavaScript,Laravel ,php
 - **Frameworks:** Express.js, Nest.js
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps:** AWS (S3, EC2, Lambda), Docker, CI/CD
